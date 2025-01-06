@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @masoudniki
 - 👀 I’m interested in backend development and stuff which is relevant to it
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning java
 - 📫 How to reach me masoud.niki79@gmail.com or masoudniki79 on telegram
 
 <!---
